@@ -4,7 +4,12 @@
 
 ### Python features 
 1. Dataclasses
+   - using dataclasses
+   - flask dataclasses
+   - dataclasses vs attrs vs pydantic
+2. functools
+   - decorators
 
 ### Writing better codes, Pythonic way
-2. Python mistakes to avoid
-3. Another Python mistakes to avoid
+- Python mistakes to avoid 
+- Another Python mistakes to avoid
